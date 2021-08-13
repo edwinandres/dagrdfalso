@@ -20,6 +20,7 @@ function App() {
         <p>Hola</p>
         <p>nuevo parrafo</p>
         <p>un parrafo mas</p>
+        <p>holis</p>
       </header>
     </div>
   );
