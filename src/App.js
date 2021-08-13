@@ -18,6 +18,7 @@ function App() {
           Learn React with Edwin
         </a>
         <p>Hola</p>
+        <p>nuevo parrafo</p>
       </header>
     </div>
   );
